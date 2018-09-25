@@ -26,6 +26,7 @@ Open http://nervgh.github.io/pages/angular-file-upload/examples/simple/
     Upload File    3
     # Upload File    4
     Upload Should Be Sucessd
+    Close Browser
 
 *** Keywords ***
 Open Tax Online Page
