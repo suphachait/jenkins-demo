@@ -10,7 +10,7 @@ Open RD Server
     Open Tax Online Page
     Open Manual Of Compatability View Setting
     Close Warning Popup
-    #Close Browser
+    Close Browser
 
 Open http://nervgh.github.io/pages/angular-file-upload/examples/simple/
     [Tags]    Test2
